@@ -56,8 +56,8 @@ I'm a Computer Science and Engineering graduate focused on Network Engineering. 
 
 ## 🚀 Projects
 
-- 🏢 [**Business Enterprise Network**](https://github.com/salman7912/Professional-networking-portfolio) — Enterprise topology with departmental VLANs (Management, HR, IT, Guest, Server), inter-VLAN routing, Layer 3 switching, DHCP and DNS.
-- 🏦 [**Bank Branch Network**](https://github.com/salman7912/Professional-networking-portfolio) — Multi-branch banking network connecting Head Office and branches with OSPF, VLAN segmentation and a full IP addressing plan.
+- 🏢 [**Business Enterprise Network**](https://github.com/salman7912/Professional-networking-portfolio/tree/main/Small_Business_Enterprise_Network) — Enterprise topology with departmental VLANs (Management, HR, IT, Guest, Server), inter-VLAN routing, Layer 3 switching, DHCP and DNS.
+- 🏦 [**Bank Branch Network**](https://github.com/salman7912/Professional-networking-portfolio/tree/main/Bank_Branch_Network) — Multi-branch banking network connecting Head Office and branches with OSPF, VLAN segmentation and a full IP addressing plan.
 - 📘 [**Professional-networking-portfolio**](https://github.com/salman7912/Professional-networking-portfolio) — CCNA labs: Cisco routing & switching, VLANs, IP addressing, DHCP, DNS, LAN/WAN and troubleshooting.
 
 
